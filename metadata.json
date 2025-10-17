@@ -1,0 +1,5 @@
+{
+  "name": "StarOS",
+  "description": "A beautiful and authentic web-based operating system with a unique interface, inspired by macOS but with its own stellar theme. It features a desktop environment, a dock, a windowing system, and several basic applications.",
+  "requestFramePermissions": []
+}
